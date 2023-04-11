@@ -12,6 +12,7 @@
 		0467EE9229E4ECE3000AFEDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0467EE9129E4ECE3000AFEDD /* Assets.xcassets */; };
 		0467EE9529E4ECE3000AFEDD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0467EE9429E4ECE3000AFEDD /* Preview Assets.xcassets */; };
 		0467EE9E29E4F27A000AFEDD /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467EE9D29E4F27A000AFEDD /* CircleImage.swift */; };
+		0467EEA029E4F439000AFEDD /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467EE9F29E4F439000AFEDD /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		0467EE9129E4ECE3000AFEDD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0467EE9429E4ECE3000AFEDD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0467EE9D29E4F27A000AFEDD /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		0467EE9F29E4F439000AFEDD /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				0467EE8D29E4ECE0000AFEDD /* _706012110041App.swift */,
 				0467EE8F29E4ECE0000AFEDD /* ContentView.swift */,
 				0467EE9D29E4F27A000AFEDD /* CircleImage.swift */,
+				0467EE9F29E4F439000AFEDD /* MapView.swift */,
 				0467EE9129E4ECE3000AFEDD /* Assets.xcassets */,
 				0467EE9329E4ECE3000AFEDD /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0467EE9029E4ECE0000AFEDD /* ContentView.swift in Sources */,
+				0467EEA029E4F439000AFEDD /* MapView.swift in Sources */,
 				0467EE9E29E4F27A000AFEDD /* CircleImage.swift in Sources */,
 				0467EE8E29E4ECE0000AFEDD /* _706012110041App.swift in Sources */,
 			);
