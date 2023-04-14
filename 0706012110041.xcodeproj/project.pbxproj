@@ -18,6 +18,7 @@
 		04D08E9829E8ED2600D08185 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D08E9729E8ED2600D08185 /* Data.swift */; };
 		04D08E9D29E8EE9900D08185 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D08E9C29E8EE9900D08185 /* LandmarkRow.swift */; };
 		04D08E9F29E8F1BB00D08185 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D08E9E29E8F1BB00D08185 /* LandmarkList.swift */; };
+		04D08EA129E8F2FB00D08185 /* Detail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D08EA029E8F2FB00D08185 /* Detail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		04D08E9729E8ED2600D08185 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		04D08E9C29E8EE9900D08185 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		04D08E9E29E8F1BB00D08185 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		04D08EA029E8F2FB00D08185 /* Detail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Detail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				04D08E9E29E8F1BB00D08185 /* LandmarkList.swift */,
 				0467EE9D29E4F27A000AFEDD /* CircleImage.swift */,
 				0467EE9F29E4F439000AFEDD /* MapView.swift */,
+				04D08EA029E8F2FB00D08185 /* Detail.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 			files = (
 				0467EE9029E4ECE0000AFEDD /* ContentView.swift in Sources */,
 				04D08E9829E8ED2600D08185 /* Data.swift in Sources */,
+				04D08EA129E8F2FB00D08185 /* Detail.swift in Sources */,
 				0467EEA029E4F439000AFEDD /* MapView.swift in Sources */,
 				04D08E9F29E8F1BB00D08185 /* LandmarkList.swift in Sources */,
 				0467EE9E29E4F27A000AFEDD /* CircleImage.swift in Sources */,
